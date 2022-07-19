@@ -9,3 +9,4 @@
 <h2> 💼 - Trabalhando como auxiliar em eletrônica </h2>
 <h2> 📚 - Estudando fullstack </h2>
 <h2> 😁 - Ele/dele </h2>
+<h2> 🎸 - Bass player </h2>
