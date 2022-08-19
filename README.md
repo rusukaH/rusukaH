@@ -6,6 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusukaH&layout=compact&langs_count=9&theme=dark"/>
 </div>
 
-<h2> 💼 - Trabalhando como auxiliar em eletrônica </h2>
+<h2> 💼 - Auxiliar em eletrônica </h2>
 <h2> 📚 - Estudando fullstack (Programador BR)</h2>
 <h2> 🎸 - Bass player(Tagima TJB4) </h2> 
