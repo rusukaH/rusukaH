@@ -7,5 +7,5 @@
 </div>
 
 <h2> 💼 - Auxiliar em eletrônica </h2>
-<h2> 📚 - Estudando fullstack (Programador BR)</h2>
+<h2> 📚 - Estudando fullstack(HTML, CSS, Javascript)</h2>
 <h2> 🎸 - Bass player(Tagima TJB4) </h2> 
