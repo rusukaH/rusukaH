@@ -1,7 +1,2 @@
 <h1> Olá! Eu sou Lucas Ferreira! 👋 </h1>
 
-<div>
-  <a href="https://github.com/rusukaH">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rusukaH&show_icons=true&theme=dark&include_all_commits=true&count_private=false"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rusukaH&layout=compact&langs_count=9&theme=dark"/>
-</div>
